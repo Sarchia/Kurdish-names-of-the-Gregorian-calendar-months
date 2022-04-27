@@ -1,6 +1,8 @@
 # Kurdish names of the Gregorian calendar months
 The table below shows different names of Gregorian calendar months in Central Kurdish (Sorani).
 
+خشتەی ناوەکانی مانگەکانی ساڵی زایینی (ڕۆژژمێری گریگۆری) بە کوردیی ناوەندی (سۆرانی)
+
 ### Formal
 The names which are currently used in the educational books in Southern Kurdistan are derived from Arabic, and they are originally from the Assyrian calendar. They are shown in the second row, these names are formal and used by most media channels.
 
