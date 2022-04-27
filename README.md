@@ -1,7 +1,7 @@
 # Kurdish names of the Gregorian calendar months
 This table shows different names of Gregorian calendar months in Central Kurdish (Sorani)
 
-| English names | Arabic based | English based | Informal |
+| English names | Arabic-based (Formal) | English-based | People's choice |
 |:-------------:|:------------:|:-------------:|:--------:|
 | January | کانوونی دووەم | جانیوەری | مانگی یەک |
 | February | شوبات | فێبریوەری | مانگی دوو |
